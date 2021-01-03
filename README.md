@@ -1,2 +1,2 @@
 # AHP-Method-Project
- A program in .NET Winroms displaying the AHP decision method
+ A program in .NET Winforms displaying the AHP decision method
